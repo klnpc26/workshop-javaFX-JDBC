@@ -1,0 +1,4 @@
+user=root
+password=kaique2613
+dburl=jdbc:mysql://127.0.0.1:3306/coursejdbc
+useSSL=false
